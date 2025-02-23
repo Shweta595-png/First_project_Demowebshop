@@ -1,5 +1,6 @@
 //one comment
 //second comment
+//new comment
 
 package com.demowebshop.testautomation;
 
