@@ -1,3 +1,6 @@
+//one comment
+//second comment
+
 package com.demowebshop.testautomation;
 
 import org.openqa.selenium.By;
